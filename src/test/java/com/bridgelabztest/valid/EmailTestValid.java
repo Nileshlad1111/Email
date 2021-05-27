@@ -1,4 +1,4 @@
-package com.bridgelabzTest.valid;
+package com.bridgelabztest.valid;
 
 
 import com.bridgelabz.Email;

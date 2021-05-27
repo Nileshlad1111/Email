@@ -1,4 +1,4 @@
-package com.bridgelabzTest.invalid;
+package com.bridgelabztest.invalid;
 
 import com.bridgelabz.Email;
 import org.junit.Assert;

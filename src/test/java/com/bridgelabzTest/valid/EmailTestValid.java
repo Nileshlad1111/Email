@@ -5,7 +5,7 @@ import com.bridgelabz.Email;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class EmailTest {
+public class EmailTestValid {
     Email emailValid = new Email();
 
     @Test
